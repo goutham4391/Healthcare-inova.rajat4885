@@ -1,0 +1,1 @@
+"use strict";!function(o){var c={accordionInit:function(){o("footer.global .row-2 h2").accordionInit('[class*="column"]',"ul")},accordionDestroy:function(){o("footer.global .row-2 h2").accordionDestroy('[class*="column"]',"ul")}};window.inovaFooter=c}(jQuery);

@@ -1,0 +1,1 @@
+"use strict";!function(t){var i={init:function(n){i.formatURLs(n)},formatURLs:function(n){t(".treatments-conditions .manual-link, .treatments-conditions .more",n).each(function(n){var t,i=this.innerHTML;i.includes("https://")||i.includes("http://")||(t="https://www.inova.org"+i,this.innerHTML=t)})}};window.inovaConditionsTreatments=i}(jQuery);
